@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FomenkoLR6Task2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>FomenkoLR6Task2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="FomenkoLR6Task2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="FomenkoLR6Task2:war exploded" />
+    </root>
+  </artifact>
+</component>
